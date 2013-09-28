@@ -1,0 +1,53 @@
+.active {
+	display: block;
+}
+
+.hide {
+	display: none;
+}
+
+#appa {
+
+}
+
+#amma {
+
+}
+
+#anna {
+
+
+}
+
+#vaini {
+
+}
+
+#me {
+
+}
+
+#header {
+	background: #75A319;
+	height: 100px;	
+}
+
+.adiv {
+	margin-left: 25%;
+	margin-top: 70px;
+	border: 1px solid;
+	width: 700px;
+	height: 500px;
+}
+
+.pic {
+	height: 433px;
+}
+
+#arrow {
+	height: 70px;
+	position: absolute;
+	left: 1100px;
+	top:620px;
+	cursor: pointer;
+}
